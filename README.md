@@ -1,2 +1,2 @@
 # python
-python from scratch
+Python from scratch for deep learning
